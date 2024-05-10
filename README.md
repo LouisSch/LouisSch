@@ -47,6 +47,3 @@
     </tr>
   </tbody>
 </table>
-
-<h3>:triangular_ruler: Some quick stats</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisSch&langs_count=5&layout=compact"/>
