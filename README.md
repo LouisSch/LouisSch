@@ -3,9 +3,9 @@
 <a href="mailto:louis.schirra02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/louisschirra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<h3>:thought_balloon: Who am I</h3>
+<h3>👤 Who am I</h3>
 <p>
-A quantitative Developer passionate about building performant, modular systems for trading, backtesting and financial analysis.<br>
+A <b>Quantitative Developer</b> passionate about building performant, modular systems for trading, backtesting and financial analysis.<br>
 I specialize in C++ and Python, with a strong focus on:<br>
 <ul>
   <li> :gear: Algorithmic trading infrastructures</li>
